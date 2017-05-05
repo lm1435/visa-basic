@@ -1,0 +1,26 @@
+{
+  "name": "visa-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lm1435/visa-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lm1435/visa-basic/issues"
+  },
+  "homepage": "https://github.com/lm1435/visa-basic#readme",
+  "dependencies": {
+    "sass": "^0.5.0"
+  },
+  "devDependencies": {
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
